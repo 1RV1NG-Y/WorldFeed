@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# WorldFeed
+Final project for the distributed systems course
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## installation
+
+In the terminal, you can run:
+
+### `npm install`
+### `npm install react-plotly.js plotly.js`
 
 ## Available Scripts
 
