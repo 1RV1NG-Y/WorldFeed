@@ -9,6 +9,8 @@ In the terminal, you can run:
 
 ### `npm install`
 ### `npm install react-plotly.js plotly.js`
+### `npm install -S react-router-dom`                                                                                                                       
+
 
 ## Available Scripts
 
