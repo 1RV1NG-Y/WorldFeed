@@ -1,6 +1,38 @@
 # WorldFeed
 Final project for the distributed systems course
 
+## Proposal
+The provisional name of our project is WorldFeed, it is a feed type web application that shows news about global issues or international companies.
+that shows news about global topics or international companies, the format will be of a main column where the
+a main column where the headline of the news is shown with a description and to the left of the news item a graphic
+left of the element of the news will show a graphic related to the topic of the news, as the case may be.
+as the case may be, a graph of the company's shares if it is a company or a graph of the national currency compared to the dollar.
+the national currency compared to the U.S. dollar if it is about a country, the focus of the news will be the commonly
+focus of the news will be on the topic commonly referred to as "Macroeconomics".
+The idea is slightly inspired by the finance.yahoo.com page and the Twitter feed.
+The purpose of our project is to give the average person a better understanding of the events happening in the world.
+the events happening in the world and the impact they cause, showing them a more complete picture of the news.
+more complete picture of the news. We seek to generate social awareness of international events and their
+events and their effect on the economy of various entities such as companies, currencies or other economic indicators.
+economic indicators.
+The project could also be useful to be dedicated to "News trading".
+The 2 services will be provided thanks to Alpha Vantage API's for economic information and NewsAPI for news.
+economic information and NewsAPI for news
+1 own service will be provided from a Manjaro Linux server.
+Keywords will be stored in a table of tags, in another table will be stored the symbol with which it is
+the symbol with which a company is listed on the stock exchange, the symbol of various currencies and a set of tags to identify keywords for
+set of tags to identify keywords of the news and in another table will be stored the information of the news.
+information of the news, in another one we could store names of multimedia resources that we could need.
+These tables will be stored in .txt format files.
+For the replication of the storage through a distributed file system
+we will use NFS for its use in Linux systems since this will be the system that we will use for the server.
+server.
+For the multiplatform we will have a web application developed in React and an adaptation to Android
+to Android probably using what we learn in the subject of Programming mobile devices with kotlin or
+mobile devices with kotlin or tentatively it could also be developed with React.
+
+Translated with www.DeepL.com/Translator (free version)
+
 ## Requirements
 c. Storage Structure. Data must be stored in at least four (4) "tables". Such tables must be implemented in plain files such as txt or xml files and such files must be stored in two different servers by means of a Distributed File System as mentioned in d).
 
