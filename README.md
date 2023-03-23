@@ -32,7 +32,7 @@ e. Multiplatform. Your project must integrate two different client platforms ([m
 
 ## Screenshots
 ![Alt text](/img/Screenshot_20221213_185449.png?raw=true "Optional Title")
-
+![Alt text](/img/Screenshot_20221205_174309.png?raw=true "Optional Title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
