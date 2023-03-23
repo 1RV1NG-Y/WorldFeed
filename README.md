@@ -1,7 +1,7 @@
 # WorldFeed
 Final project for the distributed systems course
 
-##Screenshots
+## Screenshots
 ![Alt text](/img/Screenshot_20221213_185449.png?raw=true "Optional Title")
 
 
