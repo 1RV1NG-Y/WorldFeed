@@ -31,7 +31,6 @@ For the multiplatform we will have a web application developed in React and an a
 to Android probably using what we learn in the subject of Programming mobile devices with kotlin or
 mobile devices with kotlin or tentatively it could also be developed with React.
 
-Translated with www.DeepL.com/Translator (free version)
 
 ## Requirements
 c. Storage Structure. Data must be stored in at least four (4) "tables". Such tables must be implemented in plain files such as txt or xml files and such files must be stored in two different servers by means of a Distributed File System as mentioned in d).
