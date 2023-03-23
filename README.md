@@ -1,6 +1,10 @@
 # WorldFeed
 Final project for the distributed systems course
 
+##Screenshots
+![Alt text](/img/Screenshot_20221213_185449.png?raw=true "Optional Title")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## installation
