@@ -2,7 +2,7 @@
 Final project for the distributed systems course
 
 ## Proposal
-The provisional name of our project is WorldFeed, is a feed type web application that displays news about global issues or international companies, the format will be a main column where the headline of the news with a description and to the left of the news item will show a chart related to the topic of the news, a chart of the stock of a company if it is a company or the chart of the national currency compared to the US dollar if it is about a country, the focus of the news will be on the topic commonly referred to as "Macroeconomics".
+The provisional name of our project is WorldFeed, a feed type web application that displays news about global issues or international companies, the format will be a main column where the headline of the news with a description and to the left of the news item will show a chart related to the topic of the news, a chart of the stock of a company if it is a company or the chart of the national currency compared to the US dollar if it is about a country, the focus of the news will be on the topic commonly referred to as "Macroeconomics".
 The idea is slightly inspired by the finance.yahoo.com page and the Twitter feed.
 
 
