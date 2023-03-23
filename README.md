@@ -1,6 +1,11 @@
 # WorldFeed
 Final project for the distributed systems course
 
+## Requirements
+c. Storage Structure. Data must be stored in at least four (4) "tables". Such tables must be implemented in plain files such as txt or xml files and such files must be stored in two different servers by means of a Distributed File System as mentioned in d).
+d. Replication of storage. This must done by means of set up and configuration of a Distributed File System such as **NFS**, SMB or CIFS.
+e. Multiplatform. Your project must integrate two different client platforms ([mobile](https://github.com/1RV1NG-Y/WorldFeedApp) and web browser). In addition, the servers must be deployed in any Linux distro.
+
 ## Screenshots
 ![Alt text](/img/Screenshot_20221213_185449.png?raw=true "Optional Title")
 
