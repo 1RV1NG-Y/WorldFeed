@@ -24,11 +24,25 @@ For the multiplatform we will have a web application developed in React and an a
 
 
 ## Requirements
-c. Storage Structure. Data must be stored in at least four (4) "tables". Such tables must be implemented in plain files such as txt or xml files and such files must be stored in two different servers by means of a Distributed File System as mentioned in d).
+a) Presentation: Project’s name and brief description of this. In the above, you must justify why do your project choice and how will it help you to understand more about of distributed systems.
 
-d. Replication of storage. This must done by means of set up and configuration of a Distributed File System such as **NFS**, SMB or CIFS.
+b) Problem to solve: On this section, you must explain what problems your project will solve and how will it be done.
 
-e. Multiplatform. Your project must integrate two different client platforms ([mobile](https://github.com/1RV1NG-Y/WorldFeedApp) and web browser). In addition, the servers must be deployed in any Linux distro.
+c) Distributed systems elements to include: Your project must include the following basic components of a distributed systems:
+
+    a. Integration of at least two Web Services provides by a third party such as Google, Amazon, Twitter, Spotify, etc.
+  
+    b. Provide a basic web service, you must design the web service to offer.
+  
+    c. Storage Structure. Data must be stored in at least four (4) "tables". Such tables must be implemented in plain files such as txt or xml files and such   files must be stored in two different servers by means of a Distributed File System as mentioned in d.
+
+    d. Replication of storage. This must done by means of set up and configuration of a Distributed File System such as **NFS**, SMB or CIFS.
+
+    e. Multiplatform. Your project must integrate two different client platforms ([mobile](https://github.com/1RV1NG-Y/WorldFeedApp) and web browser). In addition, the servers must be deployed in any Linux distro.
+  
+d) The proposal length must not be more than two pages including the cover page.
+
+e) At the end of the project, you will have to submit a report in an IEEE format, in which you will present the results, issues that you had during your project development, successes, etc.
 
 ## Screenshots
 ![Alt text](/img/Screenshot_20221213_185449.png?raw=true "Optional Title")
