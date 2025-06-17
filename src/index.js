@@ -8,7 +8,6 @@ import Nav from "./nav";
 import {BrowserRouter,Switch,Route,Link} from "react-router-dom"
 import reportWebVitals from "./reportWebVitals";
 import { Redirect } from "react-router-dom/cjs/react-router-dom.min";
-let niusneim ="apple"
 ReactDOM.render(
   <BrowserRouter>
   <>
